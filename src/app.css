@@ -1,0 +1,18 @@
+* {
+  color: antiquewhite;
+}
+
+.bg {
+  background-color: rgb(46, 73, 107);
+  background-size: cover;
+  height: 100vh;
+  width: 100vh;
+  padding: 10px;
+  margin: 10px;
+}
+
+.EventCard {
+  width: 80%;
+  border: 1px solid rgb(70, 134, 118);
+  min-height: "150px";
+}
