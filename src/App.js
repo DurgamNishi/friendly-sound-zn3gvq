@@ -6,6 +6,7 @@ export default function App() {
     <div className="App">
       <div>
         <h3 className="bg">Welcome to Events</h3>
+        <p></p>
         <input type="text" />
         <input />
 
